@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "kernelspec": {
+            "name": "SQL",
+            "display_name": "SQL",
+            "language": "sql"
+        },
+        "language_info": {
+            "name": "sql",
+            "version": ""
+        }
+    },
+    "nbformat_minor": 2,
+    "nbformat": 4,
+    "cells": [
+        {
+            "cell_type": "code",
+            "source": [
+                "select getdate()"
+            ],
+            "metadata": {
+                "azdata_cell_guid": "c6c4222e-0341-4796-8d51-ef892facdf00"
+            },
+            "outputs": [
+                {
+                    "output_type": "display_data",
+                    "data": {
+                        "text/html": "(1 row affected)"
+                    },
+                    "metadata": {}
+                },
+                {
+                    "output_type": "display_data",
+                    "data": {
+                        "text/html": "Total execution time: 00:00:00.012"
+                    },
+                    "metadata": {}
+                },
+                {
+                    "output_type": "execute_result",
+                    "metadata": {},
+                    "execution_count": 1,
+                    "data": {
+                        "application/vnd.dataresource+json": {
+                            "schema": {
+                                "fields": [
+                                    {
+                                        "name": "(No column name)"
+                                    }
+                                ]
+                            },
+                            "data": [
+                                {
+                                    "0": "2021-11-29 10:21:02.597"
+                                }
+                            ]
+                        },
+                        "text/html": [
+                            "<table>",
+                            "<tr><th>(No column name)</th></tr>",
+                            "<tr><td>2021-11-29 10:21:02.597</td></tr>",
+                            "</table>"
+                        ]
+                    }
+                }
+            ],
+            "execution_count": 1
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "fe83129e-a8f1-4264-a45f-b011c5b178ed"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "2f035922-d7ac-459f-8e96-9564c4209298"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "code",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "d3d1fd04-1b6b-4db1-806a-13b9a392dc14"
+            },
+            "outputs": [],
+            "execution_count": null
+        },
+        {
+            "cell_type": "markdown",
+            "source": [
+                ""
+            ],
+            "metadata": {
+                "azdata_cell_guid": "a2e82377-29fa-422d-ad81-f317482dbaa7"
+            }
+        }
+    ]
+}
